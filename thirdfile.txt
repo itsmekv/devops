@@ -1,0 +1,5 @@
+this is 3rd file
+
+this is 1st ceated by using touch command 
+
+then after entering this file by using "vi editor"
